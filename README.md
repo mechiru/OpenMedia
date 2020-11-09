@@ -18,7 +18,7 @@ See [OpenMedia Specification Suite](https://iabtechlab.com/standards/openmedia/)
 
 **Related Resources:**
 - [Ads.txt](https://iabtechlab.com/ads-txt/)
-  - **WIP** [adstxt](crates.io/crates/adstxt) - [ads.txt v1.0.2](https://iabtechlab.com/wp-content/uploads/2019/03/IAB-OpenRTB-Ads.txt-Public-Spec-1.0.2.pdf)
+  - **WIP** [adstxt](https://crates.io/crates/adstxt) - [ads.txt v1.0.2](https://iabtechlab.com/wp-content/uploads/2019/03/IAB-OpenRTB-Ads.txt-Public-Spec-1.0.2.pdf)
 
 ## Related projects
 - [mxmCherry/openrtb](https://github.com/mxmCherry/openrtb) — implementation in Golang
