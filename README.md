@@ -1,4 +1,4 @@
-# OpenMedia
+# OpenMedia x Rust
 
 ## Overview
 OpenMedia is defined by the IAB.<br>
