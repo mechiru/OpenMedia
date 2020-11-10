@@ -18,6 +18,8 @@ See [OpenMedia Specification Suite](https://iabtechlab.com/standards/openmedia/)
   - **TODO** [openrtb3]() - [OpenRTB 3.0](https://github.com/InteractiveAdvertisingBureau/openrtb)
  - [OpenDirect](https://iabtechlab.com/standards/opendirect/)
    - opendirect1? - [OpenDirect v1.5.1](https://iabtechlab.com/wp-content/uploads/2016/07/OpenDirect_1-5-1.pdf)
+ - AdManagement
+   - [Ad Management API v1.0](https://github.com/InteractiveAdvertisingBureau/AdManagementAPI)
 
 **Related Resources:**
 - [ads.txt](https://iabtechlab.com/ads-txt/)
