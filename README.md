@@ -16,6 +16,8 @@ See [OpenMedia Specification Suite](https://iabtechlab.com/standards/openmedia/)
   - openrtb-conv? [openrtb3-converter](https://github.com/InteractiveAdvertisingBureau/openrtb3-converter)
   - **WIP** [openrtb2](https://crates.io/crates/openrtb2) - [OpenRTB 2.5 Final](https://iabtechlab.com/wp-content/uploads/2016/07/OpenRTB-API-Specification-Version-2-5-FINAL.pdf)
   - **TODO** [openrtb3]() - [OpenRTB 3.0](https://github.com/InteractiveAdvertisingBureau/openrtb)
+ - [OpenDirect](https://iabtechlab.com/standards/opendirect/)
+   - opendirect1? - [OpenDirect v1.5.1](https://iabtechlab.com/wp-content/uploads/2016/07/OpenDirect_1-5-1.pdf)
 
 **Related Resources:**
 - [ads.txt](https://iabtechlab.com/ads-txt/)
