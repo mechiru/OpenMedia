@@ -30,4 +30,4 @@ See [OpenMedia Specification Suite](https://iabtechlab.com/standards/openmedia/)
   - vast4? - [VAST v4.2](https://iabtechlab.com/wp-content/uploads/2019/06/VAST_4.2_final_june26.pdf)
 
 ## Related projects
-- [mxmCherry/openrtb](https://github.com/mxmCherry/openrtb) — implementation in Golang
+- [prebid/openrtb](https://github.com/prebid/openrtb) — implementation in Golang
