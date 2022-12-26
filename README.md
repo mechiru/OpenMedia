@@ -27,7 +27,7 @@ See [OpenMedia Specification Suite](https://iabtechlab.com/standards/openmedia/)
   - [adstxt](https://crates.io/crates/adstxt) - [ads.txt v1.0.2](https://iabtechlab.com/wp-content/uploads/2019/03/IAB-OpenRTB-Ads.txt-Public-Spec-1.0.2.pdf)
 - [VAST](https://iabtechlab.com/standards/vast/)
   - vast3? - [VAST v3.0](https://iabtechlab.com/wp-content/uploads/2016/04/VASTv3_0.pdf)
-  - vast4? - [VAST v4.2](https://iabtechlab.com/wp-content/uploads/2019/06/VAST_4.2_final_june26.pdf)
+  - [vast4](https://github.com/mechiru/vast4) - [VAST v4.2](https://iabtechlab.com/wp-content/uploads/2019/06/VAST_4.2_final_june26.pdf)
 
 ## Related projects
 - [prebid/openrtb](https://github.com/prebid/openrtb) — implementation in Golang
